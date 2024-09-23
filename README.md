@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&duration=3000&pause=&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Backend+Developer" alt="Typing SVG" />
   <div align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=CedricVerlinden&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricVerlinden&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css">
